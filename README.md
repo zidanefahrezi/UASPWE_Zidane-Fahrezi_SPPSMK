@@ -1,6 +1,3 @@
-Login page:
-![image](https://github.com/user-attachments/assets/4cbd06ab-fdae-44cf-a101-3040ab7921d9)
-
 Home Page Role Admin Chart:
 ![image](https://github.com/user-attachments/assets/cd3c2502-9fe5-49cf-930a-87f94bcd4db7)
 
